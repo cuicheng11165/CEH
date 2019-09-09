@@ -18,5 +18,8 @@
 16. daemon    
 17. HFS
 18. insider affiliate
-19. 
+19. iris scanner
+20. scope creep
+21. LexisNexis 
+22. Executive summary
 
