@@ -42,6 +42,11 @@ In the TTL version, if the TTL of the returned RST packet < 64, the port is open
 In the Window version, if the WINDOW size on the RST packet has anything >  0, the port is open. 
 
 
+## IDLE ##
+
+-sI
+
+
 
 
 
