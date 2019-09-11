@@ -34,3 +34,10 @@
 32. BCP
 33. DRP
 34. EDGAR
+
+
+35. EDGAR (the Electronic Data-Gathering, Analysis, and Retrieval system) contains reports publicly traded companies make to the Securities and Exchange Commission (SEC). Learn more at www.sec.gov/edgar.shtml. 
+36. LexisNexis maintains a database of public record information on companies that includes details such as legal news and press releases. Learn more at www.lexisnexis .com/en-us/home.page. 
+37. BusinessWire (www.businesswire.com/portal/site/home/) is another great resource that provides information about the status of a company as well as financial and other data. 
+38. CNBC (www.cnbc.com) offers a wealth of company details as well as future plans and in-depth analysis
+

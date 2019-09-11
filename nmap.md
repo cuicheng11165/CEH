@@ -3,7 +3,7 @@
 
 ## Full Connect ##
 
-## Stealth (SYN Scan)##
+## Stealth (SYN Scan) ##
 
 -sS  
 
@@ -47,8 +47,44 @@ In the Window version, if the WINDOW size on the RST packet has anything >  0, t
 -sI
 
 
+-A
+
+## HOST DISCOVERY ##
+
+
+-sL: List Scan - simply list targets to scan
+-sn: Ping Scan - disable port scan
+
+
+-Pn: Treat all hosts as online -- skip host discovery
+
+## Port Scan ##
+
+-PS/PA/PU/PY[portlist]: TCP SYN/ACK, UDP or SCTP discovery to given ports
 
 
 
 
+## SERVICE/VERSION DETECTION ## 
+
+-sV: Probe open ports to determine service/version info
+
+
+## Script Scan ##
+
+-sC: equivalent to --script=default
+
+
+## OS detection ##
+
+-O: Enable OS detection
+
+
+## Timing and performance ##
+
+-T<0-5>
+
+
+
+-A: Enable OS detection, version detection, script scanning, and traceroute  , -O, -sV, -sc, and -traceroute
 
