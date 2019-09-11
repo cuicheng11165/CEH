@@ -33,11 +33,18 @@
 31. IRP
 32. BCP
 33. DRP
-34. EDGAR
+35. EDGAR
+36. LexisNexis
+37. BusinessWire
+38. CNBC
+39. CSIRT
+40. HIDS
+41. NIDS
 
-
-35. EDGAR (the Electronic Data-Gathering, Analysis, and Retrieval system) contains reports publicly traded companies make to the Securities and Exchange Commission (SEC). Learn more at www.sec.gov/edgar.shtml. 
-36. LexisNexis maintains a database of public record information on companies that includes details such as legal news and press releases. Learn more at www.lexisnexis .com/en-us/home.page. 
-37. BusinessWire (www.businesswire.com/portal/site/home/) is another great resource that provides information about the status of a company as well as financial and other data. 
-38. CNBC (www.cnbc.com) offers a wealth of company details as well as future plans and in-depth analysis
+Regional Internet Registries (RIP)
+42. American Registry for Internet Numbers (ARIN)    Canada, many Caribbean and North Atlantic islands, and the United States.
+43. Asia-Pacific Network Information Center (APNIC)   Asia and the Pacific.
+44. Réseaux IP Européens (RIPE) NCC   Europe, Middle East, and parts of Central Asia/Northern Africa. If you’re wondering, the name is in French.
+45. Latin America and Caribbean Network Information Center (LACNIC)   Latin America and the Caribbean.
+46. African Network Information Center (AfriNIC)   Africa.
 
