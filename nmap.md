@@ -26,6 +26,7 @@ CLOSE | RST |
 ## XMAS ##
 Turn on all flags. Does not work against windows due to (RFC793 compliant)
 
+-sX
 
 ## ACK Probe ##
 
@@ -41,28 +42,32 @@ the attacker sends the ACK flag and looks at the return header (TTL or Window fi
 In the TTL version, if the TTL of the returned RST packet < 64, the port is open. 
 In the Window version, if the WINDOW size on the RST packet has anything >  0, the port is open. 
 
-
 ## IDLE ##
 
 -sI
 
-
--A
+-sL: DNS scan list scan
 
 ## HOST DISCOVERY ##
 
 
 -sL: List Scan - simply list targets to scan
 -sn: Ping Scan - disable port scan
+-sP: Ping Scan
+
+-sW: windows scan
 
 
--Pn: Treat all hosts as online -- skip host discovery
+-Pn: Treat all hosts as online -- disable ping  
 
 ## Port Scan ##
 
 -PS/PA/PU/PY[portlist]: TCP SYN/ACK, UDP or SCTP discovery to given ports
 
-
+-PI  ICMP ping
+-Po No Ping
+-PS SYN Ping
+-PT TCP ping
 
 
 ## SERVICE/VERSION DETECTION ## 

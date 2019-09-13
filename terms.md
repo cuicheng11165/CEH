@@ -47,4 +47,4 @@ Regional Internet Registries (RIP)
 44. Réseaux IP Européens (RIPE) NCC   Europe, Middle East, and parts of Central Asia/Northern Africa. If you’re wondering, the name is in French.
 45. Latin America and Caribbean Network Information Center (LACNIC)   Latin America and the Caribbean.
 46. African Network Information Center (AfriNIC)   Africa.
-
+47. Banner grabing  (enumeration)
