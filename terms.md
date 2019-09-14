@@ -48,3 +48,5 @@ Regional Internet Registries (RIP)
 45. Latin America and Caribbean Network Information Center (LACNIC)   Latin America and the Caribbean.
 46. African Network Information Center (AfriNIC)   Africa.
 47. Banner grabing  (enumeration)
+48. When a packet is addressed in such a manner that only those on the same subnet can receive it, it is considered link local
+49. 

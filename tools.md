@@ -8,3 +8,9 @@
 6. Nikto 
 7. Nessus
 8. Pcap
+9. Hping
+10. zenmap windows based guidelines
+11. Yersinia
+12. scapy
+13. traceroute default udp
+14. 
