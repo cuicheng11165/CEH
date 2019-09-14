@@ -62,8 +62,8 @@ WPA2 | AES,CCMP | 48 bits | 128bits | CBC-MAC
 
 ## Bluetooth Hacking ##
 
-Bluesmacking   	dos attack for bluetooth
-BlueBugging		exploits bluetooth to comromise its security
-Bluejack 		send unsolicited message
-BluePrinting	extract infomation of device
-BlueSnarfing	theft infomation from device
+- Bluesmacking   	dos attack for bluetooth
+- BlueBugging		exploits bluetooth to comromise its security
+- Bluejack 		send unsolicited message
+- BluePrinting	extract infomation of device
+- BlueSnarfing	theft infomation from device
