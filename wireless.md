@@ -53,7 +53,7 @@ Wifi Protected Access
 to replace WPA
 
 
-Encryption | Encryption Algorithm | Encryption Key | Integraity check mechanism | integrity check
+Encryption | Encryption Algorithm | IV size | Encryption Key | Integraity check mechanism 
 -|-|-|-|-
 WEP | RC4 | 24 bits | 40/104-bits | CRC-32
 WPA | RC4,TKIP| 48 bits | 128bits | MICHAEL ALGORITHM CRC32
