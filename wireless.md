@@ -58,3 +58,12 @@ Encryption | Encryption Algorithm | IV size | Encryption Key | Integraity check 
 WEP | RC4 | 24 bits | 40/104-bits | CRC-32
 WPA | RC4,TKIP| 48 bits | 128bits | MICHAEL ALGORITHM CRC32
 WPA2 | AES,CCMP | 48 bits | 128bits | CBC-MAC
+
+
+## Bluetooth Hacking ##
+
+Bluesmacking   	dos attack for bluetooth
+BlueBugging		exploits bluetooth to comromise its security
+Bluejack 		send unsolicited message
+BluePrinting	extract infomation of device
+BlueSnarfing	theft infomation from device
