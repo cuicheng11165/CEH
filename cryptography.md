@@ -9,9 +9,13 @@
 6. RC4
 7. RC5
 8. RC6
-9. AES
+9. AES			128,192,256位 key
 10. twofish
 
+
+
+MD5 	产生出一个128位（16字节）的散列值 hash value
+SHA1	SHA1会产生一个160位的消息摘要
 
 
 

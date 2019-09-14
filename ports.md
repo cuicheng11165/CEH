@@ -18,6 +18,7 @@
 - 389 LDAP
 - 445 CIFS
 - 514 Syslog
+- 613 Printer
 - 636 Secure LDAP
 
 

@@ -48,9 +48,86 @@ Regional Internet Registries (RIP)
 45. Latin America and Caribbean Network Information Center (LACNIC)   Latin America and the Caribbean.
 46. African Network Information Center (AfriNIC)   Africa.
 
-
 47. Banner grabing  (enumeration)
 48. When a packet is addressed in such a manner that only those on the same subnet can receive it, it is considered link local
 49. PGP  IDEA算法
 50. cobit	是目前国际上通用的信息系统审计的标准
-51. 
+51. TCSEC (Trusted Computer System Evaluation Criteria) A U.S. Department of Defense (DoD) standard that sets basic requirements for assessing the effectiveness of computer security controls built into a computer system.
+
+
+Vulnerability Assessment Solutions
+52. Product based 	in the organization's internal network,delicated for pprivate network
+53. Service based	third party solutions which offers security and auditing to network
+54. Tree based		os-based strategy
+55. inference based	 protocal based strategy
+
+Vulnerability Assessment Types
+56. Active Assessments		send request to target
+57. Passive Assessments		sniff the target 
+58. External Assessment  	with hacker's perspective
+59. Internal Assessment		scan internal network
+
+Vulnerability Score System
+60. CVSS (Common Vulnerability Scoring Systems)
+61. CVE  (Common Vulnerability and Exposure)
+
+
+62. Crypter  is software to crate trojans
+63. RAT (Remote Access  Trojans)
+64. SPAN (Switch Port Analyser)
+65. Switch Port Stealing
+66. DHCP Starvation Attack
+67. Rogue DHCP Server Attack
+
+## ways to detct an intrusion ##
+
+1. signature-based ids/ips
+2. policy-based ids/ips		处理掉不符合规则的连接
+3. anomaly-based ids/ips   处理掉异常的half open  connection
+4. reputation-based ids/ips
+
+## Type of Intrustion Detection System ##
+
+1. Host-based intrusion Detection
+2. network-based Intrusion Detection
+
+
+## Firewall ##
+
+1. A Layer 3 device using an Access List for restricting the specific type  of traffic on any of its interfaces. 
+2. A Layer 2 device using the concept of VLANs or Private VLANs (PVLAN) for separating the traffic of two or more networks. 
+3. A dedicated host device with software installed on it. This host device, also acting as a proxy, filters the desired traffic while allowing the remaining traffic. 
+
+## Firewall Architecture ##
+
+1. Bastion Host
+2. Screened subnet
+3. Multi-homed
+
+
+ZBF (Zone based firewall)
+
+1. Statefull inspection
+2. packet filtering
+3. url filteringtransparent firewall
+4. virtual riouting forwarding (VRF)
+
+
+## Type of Firewall ##
+
+
+1. Packet filtering firewall  based on layer 3,4 information
+2. Circuit-Level Gateway firewall  session layer, monitor tcp to handle if session are legitimate
+3. Application-Level Firewall work at layer 3 up to layer 7
+4. Stateful Multilayer Inspection Firewall
+5. Transparent firewall 
+
+
+## Evading firewall ##
+
+
+
+
+
+
+

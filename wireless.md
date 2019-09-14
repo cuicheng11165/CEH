@@ -13,3 +13,17 @@
 3. Wi-Fi Protected Access 2 (WPA2) adheres to the entire Institute of Electrical and Electronics Engineers (IEEE) 802.11i standard
 
 
+1. GSM 2G Protocol
+2. AP Access Point
+3. WAP Wireless Access Point
+4. SSID Service Set Identifier
+5. BSSID  Mac Address of an Access Point
+
+
+Wireless Standard | Operating Speed | Frequency | Mdulation Type
+-|-|-|-
+802.11a | 54 | 5 | OFDM
+802.11b | 11 | 2.4 | DSSS
+802.11g | 54 | 2.4 | OFDM and DSSS
+802.11n | 100+ | 2.4-5 | OFDM
+802.11ac | 1000 | 5 | QAM
