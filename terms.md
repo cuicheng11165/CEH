@@ -37,7 +37,7 @@
 36. LexisNexis
 37. BusinessWire
 38. CNBC
-39. CSIRT
+39. CSIRT		Computer Security Incident Response Team
 40. HIDS
 41. NIDS
 
@@ -47,6 +47,10 @@ Regional Internet Registries (RIP)
 44. Réseaux IP Européens (RIPE) NCC   Europe, Middle East, and parts of Central Asia/Northern Africa. If you’re wondering, the name is in French.
 45. Latin America and Caribbean Network Information Center (LACNIC)   Latin America and the Caribbean.
 46. African Network Information Center (AfriNIC)   Africa.
+
+
 47. Banner grabing  (enumeration)
 48. When a packet is addressed in such a manner that only those on the same subnet can receive it, it is considered link local
-49. 
+49. PGP  IDEA算法
+50. cobit	是目前国际上通用的信息系统审计的标准
+51. 
