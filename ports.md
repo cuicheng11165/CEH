@@ -29,6 +29,7 @@ Registered ports of interest
 - 1521 Oracle Listener
 - 2512, 2513 Citrix Management
 - 3389 RDP
+- 3268 Global Catalog Service
 - 6662–6667 IRC
 
 

@@ -48,3 +48,8 @@ Regional Internet Registries (RIP)
 45. Latin America and Caribbean Network Information Center (LACNIC)   Latin America and the Caribbean.
 46. African Network Information Center (AfriNIC)   Africa.
 47. Banner grabing  (enumeration)
+
+
+48. SMTP: VRFY (validates user), EXPN (provides the actual delivery addresses of mailing lists and aliases), and RCPT TO (defines recipients)
+49. rootkit    A set of tools (applications or code) that enables administrator-level access to a computer or computer network and is designed to obscure the fact that the system has been compromised.
+
