@@ -50,6 +50,11 @@
 46. African Network Information Center (AfriNIC)   Africa.
 
 47. Banner grabing  (enumeration)
+
+
+48. SMTP: VRFY (validates user), EXPN (provides the actual delivery addresses of mailing lists and aliases), and RCPT TO (defines recipients)
+49. rootkit    A set of tools (applications or code) that enables administrator-level access to a computer or computer network and is designed to obscure the fact that the system has been compromised.
+
 48. When a packet is addressed in such a manner that only those on the same subnet can receive it, it is considered link local
 49. PGP  IDEA算法
 50. cobit	是目前国际上通用的信息系统审计的标准
@@ -79,6 +84,13 @@
 65. Switch Port Stealing
 66. DHCP Starvation Attack
 67. Rogue DHCP Server Attack
+68. drive-by downloading
+69. MIB SNMP DB
+70. Finger    An early network application that provides information on users currently logged on to a machine.
+71. National Vulnerability Database
+72. Port mirror , Port scan
+73. Port Security, Assignn mac to port on switch
+74.
 
 ## ways to detct an intrusion ##
 
@@ -127,8 +139,14 @@
 ## Evading firewall ##
 
 
+## Vul Test Procedure ##
 
-
+1. Creating baseline
+2. Vul Assessment
+3. Risk assessment
+4. Remediatioon
+5. verification
+6. monitor
 
 
 
