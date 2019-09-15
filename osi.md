@@ -1,6 +1,3 @@
-
-
-
 1. hubs 		layer 1
 2. switch 		layer 2
 3. router 		layer 3

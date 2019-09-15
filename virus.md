@@ -5,7 +5,6 @@
 
 4. ZeuS is an e-banking Trojan 
 
-
 1. System or Boot Sector Virus
 2. File and Multipartite Viruses
 3. Micro Viruses
