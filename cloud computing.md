@@ -56,3 +56,6 @@ Session riding is simply CSRF under a different name and deals with cloud servic
 
 Wrapping attacks involve messing with SOAP messages and replaying them as legitimate
 
+## side channel  attack ##
+
+also known as a cross-guest VM breach, deals with the virtualization itself
