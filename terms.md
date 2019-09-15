@@ -84,6 +84,13 @@
 65. Switch Port Stealing
 66. DHCP Starvation Attack
 67. Rogue DHCP Server Attack
+68. drive-by downloading
+69. MIB SNMP DB
+70. Finger    An early network application that provides information on users currently logged on to a machine.
+71. National Vulnerability Database
+72. Port mirror , Port scan
+73. Port Security, Assignn mac to port on switch
+74.
 
 ## ways to detct an intrusion ##
 
@@ -132,8 +139,14 @@
 ## Evading firewall ##
 
 
+## Vul Test Procedure ##
 
-
+1. Creating baseline
+2. Vul Assessment
+3. Risk assessment
+4. Remediatioon
+5. verification
+6. monitor
 
 
 

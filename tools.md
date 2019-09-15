@@ -24,7 +24,10 @@
 22. Bettercap, OWASP ZAP, and Burp Suite are all programs that could be utilized to carry out a session hijacking
 23. CCleaner		Clearing Tracks
 24. EliteWrap		Bind trojan to software
-25. 
+25. SuperScan   
+26. Dark horse , trojan maker
+27. exploit kits,crimeware kits   platforms from which you can deliver exploits and payloads
+
 
 
 ## People Search Tools ##
