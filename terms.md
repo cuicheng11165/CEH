@@ -90,7 +90,9 @@
 71. National Vulnerability Database
 72. Port mirror , Port scan
 73. Port Security, Assignn mac to port on switch
-74.
+74. /etc folder holds the admin passwords,showdow password
+75. An ICMP flood is considered a volumetric attack that seeks to consume the bandwidth of the target network
+
 
 ## ways to detct an intrusion ##
 
@@ -147,6 +149,17 @@
 4. Remediatioon
 5. verification
 6. monitor
+
+
+## snort rule ##
+Rule Action
+Rule Protocol
+Rule Format Direction
+Rule IP Address
+Rule Port
+Alert Message
+
+
 
 
 

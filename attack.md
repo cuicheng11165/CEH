@@ -11,6 +11,10 @@
 9. Fraggle 		UDP
 10.  APT	(Advanced,Persistent,Threat)
 11. Sybil attack	an attacker works with multiple forged identities to create a strong illusion of traffic congestion, effecting communication between neighboring nodes and networks
+12.  forbidden attack is a type of man-in-the-middle attack using hijacked HTTPS sessions. It seeks to exploit reusing the cryptographic nonce used during the TLS handshake
+13. Compression Ratio Info-Leak Made Easy (CRIME) is a client-side attacker that looks to exploit the vulnerabilities present in the data compression features of protocols such as SSL/TLS, SPDY, and HTTPS
+14. RST hijacking
+15. DNS Amplification
 
 DOS & DDOS
 1. Volumetric Attack
@@ -26,4 +30,5 @@ DOS & DDOS
 10. Permanent Denial-of-Service Attack   (PDOS) 毁坏硬件
 11. Application Level flood attacks
 12. Distributed Reflection Denial of Service (DRDoS)	
+13 
 
