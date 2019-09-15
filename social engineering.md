@@ -1,5 +1,3 @@
-
-
 1. smishing SMS
 2. vishing    Social engineering attacks using a phone.
 3. Spear phishing is used to attack targeted individuals within an organization, 
