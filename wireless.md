@@ -20,6 +20,14 @@ Wireless Standard | Operating Speed | Frequency | Mdulation Type
 802.11ac | 1000 | 5 | QAM
 Bluetooth | 1-3 | 2.4 | N/A
 
+
+Direct-sequence spread spectrum (DSSS)
+
+5G has a range of 75 meters
+2.4G has a range of 150 meters
+Both 2.4,5G   100 meters
+
+
 ## WIFI Chalking ##
 
 WarWalking: Walking around to detect open Wi-Fi networks 
@@ -67,3 +75,4 @@ WPA2 | AES,CCMP | 48 bits | 128bits | CBC-MAC
 - Bluejack 		send unsolicited message
 - BluePrinting	extract infomation of device
 - BlueSnarfing	theft infomation from device
+- Bluesniffing is the collecting of technical data on a Bluetooth device for hacking purposes
