@@ -1,4 +1,4 @@
-﻿# Terms #
+# Terms #
 
 1. overt channel 合法 
 2. covert 不合法
@@ -41,7 +41,8 @@
 40. HIDS
 41. NIDS
 
-Regional Internet Registries (RIP)
+## Regional Internet Registries (RIP) ##
+
 42. American Registry for Internet Numbers (ARIN)    Canada, many Caribbean and North Atlantic islands, and the United States.
 43. Asia-Pacific Network Information Center (APNIC)   Asia and the Pacific.
 44. Réseaux IP Européens (RIPE) NCC   Europe, Middle East, and parts of Central Asia/Northern Africa. If you’re wondering, the name is in French.
@@ -55,19 +56,19 @@ Regional Internet Registries (RIP)
 51. TCSEC (Trusted Computer System Evaluation Criteria) A U.S. Department of Defense (DoD) standard that sets basic requirements for assessing the effectiveness of computer security controls built into a computer system.
 
 
-Vulnerability Assessment Solutions
+## Vulnerability Assessment Solutions ##
 52. Product based 	in the organization's internal network,delicated for pprivate network
 53. Service based	third party solutions which offers security and auditing to network
 54. Tree based		os-based strategy
 55. inference based	 protocal based strategy
 
-Vulnerability Assessment Types
+## Vulnerability Assessment Types ##
 56. Active Assessments		send request to target
 57. Passive Assessments		sniff the target 
 58. External Assessment  	with hacker's perspective
 59. Internal Assessment		scan internal network
 
-Vulnerability Score System
+## Vulnerability Score System ##
 60. CVSS (Common Vulnerability Scoring Systems)
 61. CVE  (Common Vulnerability and Exposure)
 
@@ -105,7 +106,7 @@ Vulnerability Score System
 3. Multi-homed
 
 
-ZBF (Zone based firewall)
+## ZBF (Zone based firewall) ##
 
 1. Statefull inspection
 2. packet filtering
