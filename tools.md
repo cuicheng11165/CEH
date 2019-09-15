@@ -27,8 +27,8 @@
 25. SuperScan   
 26. Dark horse , trojan maker
 27. exploit kits,crimeware kits   platforms from which you can deliver exploits and payloads
-
-
+28. Sheepdip computers are usually configured with a couple of different AV programs, port monitors, registry monitors, and file integrity verifiers
+29. Tripwire integrity check
 
 ## People Search Tools ##
 
