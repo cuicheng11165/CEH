@@ -46,20 +46,21 @@ WarDriving: Driving around to detect Open Wi-Fi networks
 ## Wireless Encryption ##
 
 ### WEP ###
+
 It uses 24-bit initialization vector (IV) to create a stream cipher RC4 with Cyclic Redundant Check (CRC) to ensure 
 confidentiality and integrity. 
 
 Standard 64-bit WEP uses the 40-bit key,
  128-bit WEP uses 104-bit key and
- 256-bit WEP uses a 232-bit key. 
-
+ 256-bit WEP uses a 232-bit key
 
 ### WPA ###
-Wifi Protected Access 
+
+Wifi Protected Access
 
 ### WPA2 ###
-to replace WPA
 
+to replace WPA
 
 Encryption | Encryption Algorithm | IV size | Encryption Key | Integraity check mechanism 
 -|-|-|-|-
@@ -67,12 +68,14 @@ WEP | RC4 | 24 bits | 40/104-bits | CRC-32
 WPA | RC4,TKIP| 48 bits | 128bits | MICHAEL ALGORITHM CRC32
 WPA2 | AES,CCMP | 48 bits | 128bits | CBC-MAC
 
+1. CCMP provides for integrity in WPA2
+2. MIC provides integrity checking in WPA
 
 ## Bluetooth Hacking ##
 
-- Bluesmacking   	dos attack for bluetooth
-- BlueBugging		exploits bluetooth to comromise its security
-- Bluejack 		send unsolicited message
-- BluePrinting	extract infomation of device
-- BlueSnarfing	theft infomation from device
-- Bluesniffing is the collecting of technical data on a Bluetooth device for hacking purposes
+- Bluesmacking  dos attack for bluetooth
+- BlueBugging   exploits bluetooth to comromise its security
+- Bluejack  send unsolicited message
+- BluePrinting  extract infomation of device
+- BlueSnarfing  theft infomation from device
+- Bluesniffing  is the collecting of technical data on a Bluetooth device for hacking purposes

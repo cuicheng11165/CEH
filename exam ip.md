@@ -1,6 +1,3 @@
-
-
-
 ## CH 1 ##
 
 1. Know the purpose of an ethical hacker
