@@ -53,12 +53,12 @@ In the Window version, if the WINDOW size on the RST packet has anything >  0, t
 
 -sL: List Scan - simply list targets to scan
 -sn: Ping Scan - disable port scan
--sP: Ping Scan
+-sP: Ping Scan 
 
 -sW: windows scan
 
 
--Pn: Treat all hosts as online -- disable ping  
+-Pn: Treat all hosts as online -- disable ping  Tells nMap to skip the discovery stage entirely and just test all IPs 
 
 ## Port Scan ##
 
@@ -68,6 +68,10 @@ In the Window version, if the WINDOW size on the RST packet has anything >  0, t
 -Po No Ping
 -PS SYN Ping
 -PT TCP ping
+
+## ICMP ##
+
+-PE; -PP; -PM (ICMP Ping Types)
 
 
 ## SERVICE/VERSION DETECTION ## 
