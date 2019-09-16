@@ -1,11 +1,11 @@
-
+# Tools #
 
 1. LexisNexis 	 maintains a database of public record information on companies that includes details such as legal news and press releases.
 2. OSSTMM	guidelines and policy direction for security testing
 3. OWASP	provides guidelines and policies specific to web application security, vulnerabilities, and fixes
 4. Netcraft lets you obtain web server version, IP address, subnet data, OS information, and subdomain information for any URL. Remember this tool—it will come in handy later
 5. WebGoat  how security vulnerabilities work on a system  It is maintained by OWASP
-6. Nikto 	scanner that finds vulnerabilities specifically on web servers
+6. Nikto    scanner that finds vulnerabilities specifically on web servers
 7. Nessus
 8. Pcap
 9. Hping
@@ -15,10 +15,10 @@
 13. traceroute default udp
 14. cocoa touch
 15. SoapUI Pro  a web service testing tool 
-16. Hyena 	 enumeration tool that utilizes NetBIOS to discover many pieces of information
+16. Hyena enumeration tool that utilizes NetBIOS to discover many pieces of information
 17. Ike-scan  fingerprint VPN server
 18. Cain & Abel, John the Rippper, KerbCrack, L0phtCrack, THC-Hydra to crack password
-19. snort 
+19. snort
 20. Maltego  Social enginering and general footprinting
 21. Kismet can detect and sniff wireless traffic on 802.1 la, 802.11b, 802.11g, and 802.1
 22. Bettercap, OWASP ZAP, and Burp Suite are all programs that could be utilized to carry out a session hijacking
@@ -30,6 +30,7 @@
 28. NetSurveyor wireless network discover
 28. Sheepdip computers are usually configured with a couple of different AV programs, port monitors, registry monitors, and file integrity verifiers
 29. Tripwire integrity check
+30. DroidSheep
 
 ## People Search Tools ##
 

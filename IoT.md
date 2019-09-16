@@ -55,3 +55,61 @@ Periodic assessment of devices
 Secure password recovery
 Two-Factor Authentication
 Disable UPnP
+
+The following list is the top 4 of the OWASP Top 10 IoT Vulnerabilities and Obstacles:
+
+1. Insecure web interface
+Using default credentials
+Absence of account lockout mechanisms
+CSRF, SQLi, XSS vulnerabilities
+2. Insufficient authentication/authorization
+Insecure password recovery mechanisms
+Weak passwords
+Absence of two-factor authentication
+3. Insecure network services
+Vulnerable to Denial-of-Service attacks
+Exposed ports via UPnP
+Unwanted Ports are Open
+4. Lack of transport encryption/integrity verification
+Sensitive and confidential information is sent unencrypted
+Absence of SSL/TLS or not properly configured
+Use of proprietary encryption protocols
+
+## IoT Security ##
+
+Device Memory
+
+- Clear-text credentials
+- Third-party credentials
+- Encryption keys
+
+Ecosystem Access Control
+
+- Implicit trust between components
+- Enrollment security
+- Decommissioning system
+- Lost access procedures
+
+Device Physical Interfaces
+
+- Firmware extraction
+- User CLI
+- Admin CLI
+- Privilege escalation
+- Reset to insecure state
+- Removal of storage media
+
+Device Web Interfaces
+
+- SQL injection
+- Cross-site scripting
+- Cross-site Request Forgery
+- Username enumeration
+- Weak passwords
+- Account lockout
+- Known default credentials
+
+## Note ##
+
+1. Mirai is a piece of malware that deliberately finds Internet of Things (IoT) devices to infect and add to a botnet
+2. The first phase in IoT pen testing involves discovering the devices, which is accomplished with the Shodan, Censys, Thingful, and MultiPing tools to scan and document the devices connected to the network.
