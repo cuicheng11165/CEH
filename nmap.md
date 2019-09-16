@@ -50,15 +50,12 @@ In the Window version, if the WINDOW size on the RST packet has anything >  0, t
 
 ## HOST DISCOVERY ##
 
-
 -sL: List Scan - simply list targets to scan
 -sn: Ping Scan - disable port scan
 -sP: Ping Scan 
 
 -sW: windows scan
-
-
--Pn: Treat all hosts as online -- disable ping  Tells nMap to skip the discovery stage entirely and just test all IPs 
+-sO Protocal scan
 
 ## Port Scan ##
 
@@ -68,32 +65,28 @@ In the Window version, if the WINDOW size on the RST packet has anything >  0, t
 -Po No Ping
 -PS SYN Ping
 -PT TCP ping
+-Pn: Treat all hosts as online -- disable ping  Tells nMap to skip the discovery stage entirely and just test all IPs
 
 ## ICMP ##
 
 -PE; -PP; -PM (ICMP Ping Types)
 
-
 ## SERVICE/VERSION DETECTION ## 
 
 -sV: Probe open ports to determine service/version info
-
 
 ## Script Scan ##
 
 -sC: equivalent to --script=default
 
-
 ## OS detection ##
 
 -O: Enable OS detection
-
 
 ## Timing and performance ##
 
 -T<0-5>
 
-
-
 -A: Enable OS detection, version detection, script scanning, and traceroute  , -O, -sV, -sc, and -traceroute
 
+The “s” commands determine the type of scan to perform, the “P” commands set up ping sweep options, and the “o” commands deal with output. The “T” commands deal with speed and stealth, with the serial methods taking the longest amount of time. Parallel methods are much faster because they run multiple scans simultaneously

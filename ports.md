@@ -4,17 +4,19 @@
 - 25 SMTP
 - 42 WINS
 - 53 DNS
+- 67 DHCP
+- 69 TFTP
 - 80, 8080 HTTP
 - 88 Kerberos
 - 110 POP3
 - 111 PortMapper Linux
 - 123 NTP
 - 135 RPC-DCOM
-- 139 SMB
+- 137-139 NetBIOS
 - 143 IMAP
 - 161, 162 SNMP
 - 389 LDAP
-- 445 CIFS
+- 445 SMB
 - 514 Syslog
 - 613 Printer
 - 636 Secure LDAP
